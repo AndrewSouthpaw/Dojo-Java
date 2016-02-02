@@ -5,8 +5,7 @@ package com.dojo;
  */
 public class BinarySearch {
 
-    private BinarySearch() {
-        // utility class should not be instantiable
+    public BinarySearch() {
     }
 
     public int find(int[] vals, int target) {
